@@ -1,13 +1,13 @@
-# Portfolio
+# Portfolio - Dheeraj Jain
 BI Lead Developer| Power BI, SQL, Azure Data, Snowflake, Data Visualization Expert
 
-## About
+# About
 
 Steering Chevron's BI self-service initiatives, I've cemented a reputation as a data strategist, adept in translating complex data into actionable insights. My stewardship has been marked by a relentless pursuit of analytical excellence, harnessing the power of Power BI and SQL to drive informed business decisions.
 
 Previously at Lear Corporation, my expertise in Power BI and SQL Server Reporting Services (SSRS) was pivotal in refining reporting processes. The collaborative efforts with my team led to enhanced data accessibility, fostering a culture of data-driven decision-making and contributing to our collective success.
 
-### Experience
+# Experience
 
 ## Chevron
 Power BI LEAD Developer
