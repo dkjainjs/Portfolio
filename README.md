@@ -18,7 +18,7 @@ Houston, Texas, United States · Hybrid
 Power BI Lead
 Sep 2021 - Sep 2023 · 2 yrs 1 moSep 2021 to Sep 2023 · 2 yrs 1 mo
 Pune, Maharashtra, India
-![Above and Beyond Award] (/assets/1655706464405.jpg)
+
 
 ## Fidelity International
 Assistant Manager - BI
